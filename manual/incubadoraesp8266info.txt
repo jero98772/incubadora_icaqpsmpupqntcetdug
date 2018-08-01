@@ -1,0 +1,28 @@
+costos y materiales
+opcional* 
+codigo = 20$
+chasis = reciclable (carton)= 7$ o madera = 20$ solo si se hace con nacedora
+wemos = 25$
+ventilador = 25$ VF412 Ventilador Axial de 12V DC/0.25A, 120mm x 120mm x 38mm
+realy 1 canal = 8$
+plafon = 2$
+bonbillo = 25$
+vaso = 5$
+termometro y humedoad = dht11 = 7$ o (dht 21 o dht22=24$)
+servo = 40$* para volteo automatico con tubo =15$     
+nacedora =25$* sensor de humdad de suelo =20*para saber cuando hay que limpiar
+malla = 10$* para un grado de temperatura de diferecia para la nacedora
+total con todo = 200*
+
+total para corte de madera
+
+(20*30)*1
+(45*30)*2
+(60*30)*2
+60*47
+60*10
+30*18
+20*30
+20*45
+
+tubo 40cm*3 cantidad para una  incubadora
