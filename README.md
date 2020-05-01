@@ -3,10 +3,6 @@
 Incubadora codigo abierto que pueda ser manipulada por una persona que no tenga casi conocimentos en tecnologia de ultima generacion 
 
 de hay el nombre
-# branchs
-## master 
-### --esp32 (no probada)
-### --diseños
 
 esta branch tiene de diferente el micro controlador esp8266 con la placa wemos d1 y con un diseño difente (pero puede variar) al que va dirigido 
 # descripcion
