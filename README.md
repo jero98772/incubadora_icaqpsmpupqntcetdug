@@ -6,7 +6,6 @@ de hay el nombre
 # branchs
 ## master 
 ### --esp32 (no probada)
-### --arduino (no probada)
 ### --diseños
 
 esta branch tiene de diferente el micro controlador esp8266 con la placa wemos d1 y con un diseño difente (pero puede variar) al que va dirigido 
