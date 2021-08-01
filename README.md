@@ -23,7 +23,3 @@ DNSServer
 Servo --> para girar los huevos
 
 DHT --> para medir la temperatura
-
-#### contibuye con donaciones 
-	
-	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
