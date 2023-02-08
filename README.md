@@ -1,5 +1,7 @@
 # incubadora_icaqpsmpupqntcetdug
 
+![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/l.png?raw=true)
+
 Incubadora codigo abierto que pueda ser manipulada por una persona que no tenga casi conocimentos en tecnologia de ultima generacion 
 
 de hay el nombre
@@ -23,3 +25,11 @@ DNSServer
 Servo --> para girar los huevos
 
 DHT --> para medir la temperatura
+
+#Screenshots
+
+![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/l.png?raw=true)
+
+![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/2.png?raw=true)
+
+![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/3.png?raw=true)
