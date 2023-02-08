@@ -28,7 +28,7 @@ DHT --> para medir la temperatura
 
 #Screenshots
 
-![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/l.png?raw=true)
+![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/1.png?raw=true)
 
 ![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/2.png?raw=true)
 
