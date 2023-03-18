@@ -2,6 +2,8 @@
 
 ![](https://github.com/jero98772/incubadora_icaqpsmpupqntcetdug/blob/master/misc/Screenshot/l.png?raw=true)
 
+[video](https://youtu.be/biB_ipN16EM)
+
 Incubadora codigo abierto que pueda ser manipulada por una persona que no tenga casi conocimentos en tecnologia de ultima generacion 
 
 de hay el nombre
